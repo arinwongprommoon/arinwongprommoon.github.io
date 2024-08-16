@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Arin Wongprommoon</title>
+    <link>https://arinwongprommoon.github.io/publication-type/3/</link>
+      <atom:link href="https://arinwongprommoon.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 14 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://arinwongprommoon.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>3</title>
+      <link>https://arinwongprommoon.github.io/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>Enhancing the accuracy of genome-scale metabolic models with kinetic information</title>
+      <link>https://arinwongprommoon.github.io/publication/lazaroenhancingaccuracygenomescale2024/</link>
+      <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://arinwongprommoon.github.io/publication/lazaroenhancingaccuracygenomescale2024/</guid>
+      <description>&lt;h1 id=&#34;lay-summary&#34;&gt;Lay summary&lt;/h1&gt;
+&lt;p&gt;A common way to simulate metabolism in an organism is by metabolic models &amp;ndash; mathematical equations that describe the dynamics of chemical reactions. Genome-scale constraint-based metabolic models account for most reactions that can occur in a cell and can be used to predict how much a genetically engineered microbe can produce an industrially relevant compound.&lt;/p&gt;
+&lt;p&gt;However, a common method to simulate constraint-based metabolic models forces cellular reactions to either be optimised only for growth or only for production of the new compound &amp;ndash; neither of which is realistic. We solve this problem for &lt;em&gt;E. coli&lt;/em&gt; producing citramalate by using information from another type of metabolic model to constrain the reaction fluxes in the base constraint-based model for &lt;em&gt;E. coli&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
