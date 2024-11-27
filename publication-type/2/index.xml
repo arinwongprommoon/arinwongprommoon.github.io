@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Arin Wongprommoon</title>
+    <link>https://arinwongprommoon.github.io/publication-type/2/</link>
+      <atom:link href="https://arinwongprommoon.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://arinwongprommoon.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://arinwongprommoon.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Monitoring pathogens in wastewater</title>
+      <link>https://arinwongprommoon.github.io/publication/wongprommoonmonitoringpathogenswastewater2024/</link>
+      <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://arinwongprommoon.github.io/publication/wongprommoonmonitoringpathogenswastewater2024/</guid>
+      <description>&lt;h1 id=&#34;lay-summary&#34;&gt;Lay summary&lt;/h1&gt;
+&lt;p&gt;My team members (Chalita Chomkatekaew, Claire Chewapreecha) and I wrote a short article, which reviews six recent studies that sample genetic material from wastewater to track spread of pathogens.&lt;/p&gt;
+&lt;p&gt;Wastewater genomic surveillance is useful for tracking spread of pathogens because it is less biased than sampling individuals with diagnostic testing. By way of an example, wastewater sampling allowed local public health authorities to track the geographical spread of COVID-19 and identify rare variants. These could be missed by PCR or antigen tests that are realistically done on individuals who are willing to take tests or show symptoms.&lt;/p&gt;
+&lt;p&gt;Wastewater sampling thus can serve as an early warning for policymakers and the public, and building infrastructure for localities to do so is therefore important.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accuracy and data efficiency in deep learning models of protein expression</title>
+      <link>https://arinwongprommoon.github.io/publication/nikoladosaccuracydataefficiency2022/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://arinwongprommoon.github.io/publication/nikoladosaccuracydataefficiency2022/</guid>
+      <description>&lt;h1 id=&#34;lay-summary&#34;&gt;Lay summary&lt;/h1&gt;
+&lt;p&gt;Deep learning, a type of machine learning, can be used to predict how much protein a specific DNA sequence can produce. But, it usually needs a lot of data.&lt;/p&gt;
+&lt;p&gt;We managed to get a deep learning model to make predictions with less data, especially if the data is diverse.&lt;/p&gt;
+&lt;p&gt;Our study is useful because people can then produce fewer DNA to train a model, and this is cheaper.&lt;/p&gt;
+&lt;h1 id=&#34;my-role&#34;&gt;My role&lt;/h1&gt;
+&lt;p&gt;I made sure that the Python code for the non-deep and deep learning models was robust and easy for people to use.&lt;/p&gt;
+&lt;p&gt;I also gave feedback on the manuscript. My comments improved a figure; it shows that a diverse DNA sequence input improved how efficiently the model worked and how much it was able to handle a variety of sequences.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Melittin Induced G1 Cell Cycle Arrest and Apoptosis in Chago-K1 Human Bronchogenic Carcinoma Cells and Inhibited the Differentiation of THP-1 Cells into Tumour-Associated Macrophages</title>
+      <link>https://arinwongprommoon.github.io/publication/tipgomutmelittininducedg12018/</link>
+      <pubDate>Tue, 25 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://arinwongprommoon.github.io/publication/tipgomutmelittininducedg12018/</guid>
+      <description>&lt;h1 id=&#34;lay-summary&#34;&gt;Lay summary&lt;/h1&gt;
+&lt;p&gt;Lung cancers are resistant to many drugs. Bee venom contains a protein called melittin. We want to know if it kills lung cancer cells and stops macrophages &amp;ndash; a type of white blood cell &amp;ndash; from changing cell type. Macrophages are important as it changes behaviour in lung cancer.&lt;/p&gt;
+&lt;p&gt;We tested melittin on:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;how well it kills lung cancer cells,&lt;/li&gt;
+&lt;li&gt;how well it stops lung cancer cells from dividing,&lt;/li&gt;
+&lt;li&gt;how it affects macrophages moving and changing cell type,&lt;/li&gt;
+&lt;li&gt;how it affects the cancer producing a chemical that makes blood vessels grow towards it, and&lt;/li&gt;
+&lt;li&gt;how it affects the levels of RNAs that show the activity of lung cancer cells.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;We found that melittin does indeed kill cancer cells and stop them from dividing, if we use a particular concentration. Melittin also stops macrophages from changing cell type. However, melittin does not change how well the cancer tells the body to make new blood vessels. We also saw how melittin change how lung cancer cells produce RNAs that instruct processes in the cell.&lt;/p&gt;
+&lt;p&gt;So, we think doctors can use melittin to treat lung cancer.&lt;/p&gt;
+&lt;h1 id=&#34;my-role&#34;&gt;My role&lt;/h1&gt;
+&lt;p&gt;I performed some experiments. I added melittin in various concentrations to see which concentration kills the lung cancer cells. This work became figure 5 in the paper. I also performed RT-qPCR to detect RNAs &amp;ndash; this is the same technique people use to perform PCR tests to detect COVID-19.&lt;/p&gt;
+&lt;p&gt;I also gave feedback on the manuscript.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Synthetic biology: engineering order in organisms across scales and species</title>
+      <link>https://arinwongprommoon.github.io/publication/jiasyntheticbiologyengineering2018/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://arinwongprommoon.github.io/publication/jiasyntheticbiologyengineering2018/</guid>
+      <description>&lt;h1 id=&#34;lay-summary&#34;&gt;Lay summary&lt;/h1&gt;
+&lt;p&gt;Synthetic biology is a field of science that applies engineering principles to living organisms. This short opinion piece shows three examples of its use.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;A team in Cambridge (UK) &lt;a href=&#34;https://www.nature.com/articles/s41467-018-03069-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;assembled a piece of DNA that can make bacteria change colour&lt;/a&gt;  based on the concentration of a chemical that the bacterial cells use to talk to each other. This system could be changed to make complicated patterns. People use bacteria like this to make drugs. So, creating patterns in space is useful because it separates steps in drug production that interfere with each other.&lt;/li&gt;
+&lt;li&gt;A team at the University of Illinois at Urbana-Champaign &lt;a href=&#34;https://www.nature.com/articles/s41589-018-0091-7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;assembled pieces of DNA&lt;/a&gt; that, when put into bacteria, make them mimic ecological interactions. These interactions included cooperation between species, competition between species, and one species eating another. Studying the interactions between microbes is useful because these interactions are present in the human gut and in the soil. But, engineering these interactions in order to understand them is difficult.&lt;/li&gt;
+&lt;li&gt;MRSA is a drug-resistant bacterium that can cause serious infections in hospitals. The human immune system kills MRSA in a process that involves many immune cells and chemicals that the cells make to talk to each other. A team at the University of Basel (Switzerland) &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0092867418306512&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;engineered synthetic human cells that short-cut some steps of the immune response&lt;/a&gt; and put the entire process in one cell.  The synthetic cell could detect and prevent MRSA infection very well.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;my-role&#34;&gt;My role&lt;/h1&gt;
+&lt;p&gt;Bill and I equally contributed to this article. I mainly wrote about the MRSA study.&lt;/p&gt;
+&lt;p&gt;BioTechniques had a connection with the &lt;a href=&#34;https://cusbs.soc.srcf.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cambridge University Synthetic Biology Society&lt;/a&gt; and regularly invited leaders of the society to write articles about synthetic biology.  In the society, students design projects in synthetic biology and organise teaching workshops in both the laboratory and computation sides of the discipline.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
