@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Arin Wongprommoon</title>
+    <link>https://arinwongprommoon.github.io/publication-type/3/</link>
+      <atom:link href="https://arinwongprommoon.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 26 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://arinwongprommoon.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>3</title>
+      <link>https://arinwongprommoon.github.io/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>Single-cell metabolic oscillations are pervasive and may alleviate a proteome constraint</title>
+      <link>https://arinwongprommoon.github.io/publication/wongprommoonsinglecellmetabolicoscillations/</link>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://arinwongprommoon.github.io/publication/wongprommoonsinglecellmetabolicoscillations/</guid>
+      <description>&lt;h1 id=&#34;lay-summary&#34;&gt;Lay summary&lt;/h1&gt;
+&lt;p&gt;Biological rhythms are essential to controlling the function of living organisms. One such example is the metabolic cycle in budding yeast, which consists of cycling levels of metabolites, RNA transcripts, and oxygen consumption over time. Most studies on this cycle have been performed with chemostats, in batch-cultures. Though there are more recent studies that image cells individually, it is unclear how to reconcile finding from the two types of experiments.&lt;/p&gt;
+&lt;p&gt;In this preprint, we show that pH levels in yeast cells also oscillate along with flavin redox state. These oscillations are present across a greater range of nutrient conditions and yeast mutants than observed before, including conditions in which such oscillations were disrupted in chemostats.&lt;/p&gt;
+&lt;p&gt;To explain why these oscillations are so prevalent, we used flux balance analysis &amp;ndash; a linear programming-based mathematical method to model biochemical reaction networks. With this tool, we show that, if a cell with a finite level of amino acids makes its biological building blocks (proteins, carbohydrates, lipids, etc.) in sequence, it saves time on growth. Thus, This sequence of synthesis may explain the metabolic oscillations.&lt;/p&gt;
+&lt;h1 id=&#34;my-role&#34;&gt;My role&lt;/h1&gt;
+&lt;p&gt;This work represents a fusion of multiple disciplines and tools. To observe the cells, I needed to learn how to use a microfluidics device with so many moving parts. Monitoring cell division was made possible by using CRISPR-Cas9 to engineer a genetic insertion (and I learnt how to do this while social distancing during the COVID-19 pandemic). The time-lapse microscope produces a lot of images, so the research group needed to develop &lt;a href=&#34;https://pypi.org/project/aliby/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;new software to process them&lt;/a&gt; and I wrote functions to perform time-series analysis. Finally, we used a tool from metabolic engineering, flux balance analysis, to help formulate a theoretical explanation of our observations.&lt;/p&gt;
+&lt;p&gt;I also co-wrote the initial draft of the manuscript, and documented the datasets and code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Environmental detection of Burkholderia pseudomallei and associated melioidosis risk: a molecular detection and case-control cohort study</title>
+      <link>https://arinwongprommoon.github.io/publication/pakdeeratenvironmentaldetectionburkholderia2024/</link>
+      <pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://arinwongprommoon.github.io/publication/pakdeeratenvironmentaldetectionburkholderia2024/</guid>
+      <description>&lt;h1 id=&#34;lay-summary&#34;&gt;Lay summary&lt;/h1&gt;
+&lt;p&gt;Melioidosis is a neglected tropical disease caused by the bacterium &lt;em&gt;Burkholderia pseudomallei&lt;/em&gt;, which can be acquired from the environment through contact with soil or water. However, no previous studies established a statistically significant relationship between &lt;em&gt;B. pseudomallei&lt;/em&gt; in the local environment and melioidosis cases, mostly because of low abundance of the bacterium and inconsistent sampling methods.&lt;/p&gt;
+&lt;p&gt;We recently developed a CRISPR-based method to detect &lt;em&gt;B. pseudomallei&lt;/em&gt; and compared it with conventional microbial culture methods on how well it detects the bacterium in water samples from northeast Thailand. We found that our method is far more sensitive (able to pick up the bacterium in most samples with it) and equally specific (able to rule out the bacterium in most samples without it) compared to culture-based methods.&lt;/p&gt;
+&lt;p&gt;Additionally, we collected water samples, clinical information, and demographic information associated with people in the endemic area. We found exposure to &lt;em&gt;B. pseudomallei&lt;/em&gt; in water sources, being an agricultural worker, and diabetes increased the risk of melioidosis.&lt;/p&gt;
+&lt;h1 id=&#34;my-role&#34;&gt;My role&lt;/h1&gt;
+&lt;p&gt;I performed a literature search which shows that molecular-based techniques (detecting DNA or RNA) had twice the test positivity rate as culture-based techniques (growing the bacterium on agar and finding colonies by eye).&lt;/p&gt;
+&lt;p&gt;I also processed and analysed the clinical data: I grouped the study participants&amp;rsquo; occupation codes and produced a summary of the demographic characteristics of the population (ages, sexes, BMIs, blood glucose level, etc.).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Enhancing the accuracy of genome-scale metabolic models with kinetic information</title>
+      <link>https://arinwongprommoon.github.io/publication/lazaroenhancingaccuracygenomescale2024/</link>
+      <pubDate>Sun, 14 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://arinwongprommoon.github.io/publication/lazaroenhancingaccuracygenomescale2024/</guid>
+      <description>&lt;h1 id=&#34;lay-summary&#34;&gt;Lay summary&lt;/h1&gt;
+&lt;p&gt;A common way to simulate metabolism in an organism is by metabolic models &amp;ndash; mathematical equations that describe the dynamics of chemical reactions. Genome-scale constraint-based metabolic models account for most reactions that can occur in a cell and can be used to predict how much a genetically engineered microbe can produce an industrially relevant compound.&lt;/p&gt;
+&lt;p&gt;However, a common method to simulate constraint-based metabolic models forces cellular reactions to either be optimised only for growth or only for production of the new compound &amp;ndash; neither of which is realistic. We solve this problem for &lt;em&gt;E. coli&lt;/em&gt; producing citramalate by using information from another type of metabolic model to constrain the reaction fluxes in the base constraint-based model for &lt;em&gt;E. coli&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
