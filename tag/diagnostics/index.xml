@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diagnostics | Arin Wongprommoon</title>
+    <link>https://arinwongprommoon.github.io/tag/diagnostics/</link>
+      <atom:link href="https://arinwongprommoon.github.io/tag/diagnostics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Diagnostics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 23 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://arinwongprommoon.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Diagnostics</title>
+      <link>https://arinwongprommoon.github.io/tag/diagnostics/</link>
+    </image>
+    
+    <item>
+      <title>Environmental detection of Burkholderia pseudomallei and associated melioidosis risk: a molecular detection and case-control cohort study</title>
+      <link>https://arinwongprommoon.github.io/publication/pakdeeratenvironmentaldetectionburkholderia2024/</link>
+      <pubDate>Sat, 23 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://arinwongprommoon.github.io/publication/pakdeeratenvironmentaldetectionburkholderia2024/</guid>
+      <description>&lt;h1 id=&#34;lay-summary&#34;&gt;Lay summary&lt;/h1&gt;
+&lt;p&gt;Melioidosis is a neglected tropical disease caused by the bacterium &lt;em&gt;Burkholderia pseudomallei&lt;/em&gt;, which can be acquired from the environment through contact with soil or water. However, no previous studies established a statistically significant relationship between &lt;em&gt;B. pseudomallei&lt;/em&gt; in the local environment and melioidosis cases, mostly because of low abundance of the bacterium and inconsistent sampling methods.&lt;/p&gt;
+&lt;p&gt;We recently developed a CRISPR-based method to detect &lt;em&gt;B. pseudomallei&lt;/em&gt; and compared it with conventional microbial culture methods on how well it detects the bacterium in water samples from northeast Thailand. We found that our method is far more sensitive (able to pick up the bacterium in most samples with it) and equally specific (able to rule out the bacterium in most samples without it) compared to culture-based methods.&lt;/p&gt;
+&lt;p&gt;Additionally, we collected water samples, clinical information, and demographic information associated with people in the endemic area. We found exposure to &lt;em&gt;B. pseudomallei&lt;/em&gt; in water sources, being an agricultural worker, and diabetes increased the risk of melioidosis.&lt;/p&gt;
+&lt;h1 id=&#34;my-role&#34;&gt;My role&lt;/h1&gt;
+&lt;p&gt;I performed a literature search which shows that molecular-based techniques (detecting DNA or RNA) had twice the test positivity rate as culture-based techniques (growing the bacterium on agar and finding colonies by eye).&lt;/p&gt;
+&lt;p&gt;I also processed and analysed the clinical data: I grouped the study participants&amp;rsquo; occupation codes and produced a summary of the demographic characteristics of the population (ages, sexes, BMIs, blood glucose level, etc.).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

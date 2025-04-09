@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep learning | Arin Wongprommoon</title>
+    <link>https://arinwongprommoon.github.io/tag/deep-learning/</link>
+      <atom:link href="https://arinwongprommoon.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://arinwongprommoon.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Deep learning</title>
+      <link>https://arinwongprommoon.github.io/tag/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>Accuracy and data efficiency in deep learning models of protein expression</title>
+      <link>https://arinwongprommoon.github.io/publication/nikoladosaccuracydataefficiency2022/</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://arinwongprommoon.github.io/publication/nikoladosaccuracydataefficiency2022/</guid>
+      <description>&lt;h1 id=&#34;lay-summary&#34;&gt;Lay summary&lt;/h1&gt;
+&lt;p&gt;Deep learning, a type of machine learning, can be used to predict how much protein a specific DNA sequence can produce. But, it usually needs a lot of data.&lt;/p&gt;
+&lt;p&gt;We managed to get a deep learning model to make predictions with less data, especially if the data is diverse.&lt;/p&gt;
+&lt;p&gt;Our study is useful because people can then produce fewer DNA to train a model, and this is cheaper.&lt;/p&gt;
+&lt;h1 id=&#34;my-role&#34;&gt;My role&lt;/h1&gt;
+&lt;p&gt;I made sure that the Python code for the non-deep and deep learning models was robust and easy for people to use.&lt;/p&gt;
+&lt;p&gt;I also gave feedback on the manuscript. My comments improved a figure; it shows that a diverse DNA sequence input improved how efficiently the model worked and how much it was able to handle a variety of sequences.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
