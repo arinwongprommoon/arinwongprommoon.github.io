@@ -1,3 +1,6 @@
+.mx-auto {
+    max-width: 80%;
+}
 section#section-markdown .flex {
     max-width: 100%;
 }

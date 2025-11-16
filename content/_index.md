@@ -45,7 +45,7 @@ sections:
         
         Previously, my PhD at the University of Edinburgh was jointly supervised by [Dr Diego Oyarzún](https://homepages.inf.ed.ac.uk/doyarzun/) and [Prof Peter Swain](https://swainlab.bio.ed.ac.uk/). My project examined the metabolic oscillations in budding yeast using single-cell microfluidics.
     design:
-      columns: '1'
+      columns: 1
   - block: collection
     id: papers
     content:
