@@ -74,7 +74,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Image credit: [**Kronsteiner et al.**](https://www.medrxiv.org/content/10.1101/2025.10.29.25338967v1.full)'
   focal_point: ""
   preview_only: false
 
