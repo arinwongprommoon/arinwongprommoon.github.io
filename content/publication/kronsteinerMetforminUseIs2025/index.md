@@ -29,11 +29,17 @@ publication_types: ["article"]
 publication: "medRxiv"
 publication_short: "medRxiv"
 
-abstract: "**Background:** Diabetes mellitus (DM) is a major risk factor for acquiring infections. Metformin, the first-line treatment for type 2 DM, is associated with beneficial outcome from various infectious diseases. The neglected tropical disease melioidosis has up to 50% in-hospital mortality rate and the highest risk association of DM with any infectious disease (12-fold increased risk). A better understanding of the impact of anti-hyperglycaemic drug treatment on disease outcome is needed.
+abstract: "**Background:** Diabetes mellitus (DM) is a major risk factor for acquiring infections. Metformin, the first-line treatment for type 2 DM, is associated with beneficial outcome from various infectious diseases. The neglected tropical disease melioidosis has up to 50% in-hospital mortality rate and the highest risk association of DM with any infectious disease (12-fold increased risk). A better understanding of the impact of anti-hyperglycaemic drug treatment on disease outcome is needed.\n
 
-**Methods:** We analysed the association of anti-hyperglycaemic treatment on outcome from acute melioidosis in 273 Thai patients with known DM using logistic regression and classification tree modelling while controlling for age, sex, HbA1c and history of renal impairment. Immunological parameters including T-cell and humoral responses to the pathogen as well as cytokine levels in blood were measured in a subset of individuals.
+&nbsp;\n
 
-**Results:** We report higher survival rates in acute melioidosis patients with DM who were taking the glucose-lowering drug metformin prior to infection. Metformin use was associated with a 50% decrease in 28-day mortality whilst renal impairment was associated with a doubling of mortality after adjusting for covariates. Unsupervised classification tree modelling further identified glycaemic control and age as modifying factors of outcome. Furthermore, metformin treatment was associated with greater T-cell responsiveness and the presence of T-cell modulating cytokines.
+**Methods:** We analysed the association of anti-hyperglycaemic treatment on outcome from acute melioidosis in 273 Thai patients with known DM using logistic regression and classification tree modelling while controlling for age, sex, HbA1c and history of renal impairment. Immunological parameters including T-cell and humoral responses to the pathogen as well as cytokine levels in blood were measured in a subset of individuals.\n
+
+&nbsp;\n
+
+**Results:** We report higher survival rates in acute melioidosis patients with DM who were taking the glucose-lowering drug metformin prior to infection. Metformin use was associated with a 50% decrease in 28-day mortality whilst renal impairment was associated with a doubling of mortality after adjusting for covariates. Unsupervised classification tree modelling further identified glycaemic control and age as modifying factors of outcome. Furthermore, metformin treatment was associated with greater T-cell responsiveness and the presence of T-cell modulating cytokines.\n
+
+&nbsp;\n
 
 **Conclusions:** We provide evidence for a protective effect of metformin in melioidosis and identify HbA1c and age as additional clinically relevant predictors of outcome. Further mechanistic research and randomized controlled trials are required to explore a causal link between metformin and protection from infectious diseases."
 

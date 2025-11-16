@@ -24,9 +24,15 @@ publication_short: "Asian Pac J Cancer Prev"
 
 abstract: "**Background:** Bronchogenic carcinoma (lung cancer) is one of the leading causes of death. Although many compounds isolated from natural products have been used to treat it, drug resistance is a serious problem, and alternative anti-cancer drugs are required. Here, melittin from Apis mellifera venom was used, and its effects on bronchogenic carcinoma cell proliferation and tumour-associated macrophage differentiation were evaluated.\n
 
+&nbsp;\n
+
 **Methods:** The half maximal inhibitory concentration (IC50) of melittin was measured by MTT. Cell death was observed by annexin V and propidium iodide (PI) co-staining followed by flow cytometry. Cell cycle arrest was revealed by PI staining and flow cytometry. To investigate the tumour microenvironment, differentiation of circulating monocytes (THP-1) into tumour-associated macrophages (TAMs) was assayed by sandwich-ELISA and interleukin (IL)-10 levels were determined. Cell proliferation and migration was observed by flat plate colony formation. Secretion of vascular endothelial growth factor (VEGF) was detected by ELISA. The change in expression levels of CatS, Bcl-2, and MADD was measured by quantitative RT-PCR.\n
 
+&nbsp;\n
+
 **Results:** Melittin was significantly more cytotoxic (p < 0.01) to human bronchogenic carcinoma cells (ChaGo-K1) than to the control human lung fibroblasts (Wi-38) cells. At 2.5 μM, melittin caused ChaGo-K1 cells to undergo apoptosis and cell cycle arrest at the G1 phase. The IL-10 levels showed that melittin significantly inhibited the differentiation of THP-1 cells into TAMs (p < 0.05) and reduced the number of colonies formed in the treated ChaGo-K1 cells compared to the untreated cells. However, melittin did not affect angiogenesis in ChaGo-K1 cells. Unlike MADD, Bcl-2 was up-regulated significantly (p < 0.05) in melittin-treated ChaGo-K1 cells.\n
+
+&nbsp;\n
 
 **Conclusion:** Melittin can be used as an alternative agent for lung cancer treatment because of its cytotoxicity against ChaGo-K1 cells and the inhibition of differentiation of THP-1 cells into TAMs."
 
