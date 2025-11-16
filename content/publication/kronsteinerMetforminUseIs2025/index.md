@@ -1,5 +1,5 @@
 ---
-title: "Environmental detection of Burkholderia pseudomallei and associated melioidosis risk: a molecular detection and case-control cohort study"
+title: "Metformin use is associated with lower mortality from bacterial sepsis and improved immunocompetence in Thai diabetes patients with acute melioidosis"
 authors:
 - Barbara Kronsteiner
 - Clement Twumasi
