@@ -1,9 +1,11 @@
 ---
-title: "Environmental detection of Burkholderia pseudomallei and associated melioidosis risk: a molecular detection and case-control cohort study"
+title: "CRISPR-based environmental detection of Burkholderia pseudomallei identifies sanitation gaps and melioidosis risk in northeast Thailand"
 authors:
 - Sukritpong Pakdeerat
 - Chalita Chomkatekaew
 - Phumrapee Boonklang
+- Raiwin Mothong
+- Maturada Patchsung
 - admin
 - Kesorn Angchagun
 - Yaowaret Dokket
@@ -11,31 +13,31 @@ authors:
 - Gumphol Wongsuwan
 - Premjit Amornchai
 - Vanaporn Wuthiekanun
-- Jirameth Changklom
+- Jiramate Changklom
 - Suwatthiya Siriboon
 - Parinya Chamnan
-- Sharon J Peacock
+- Sharon J. Peacock
 - Jukka Corander
 - Nicholas PJ Day
-- Nicholas R Thomson
+- Nicholas R. Thomson
 - Chayasith Uttamapinant
 - Somsakul Pop Wongpalee
 - Claire Chewapreecha 
-date: "2025-06-17T00:00:00Z"
+date: "2026-05-15T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-06-17T00:00:00Z"
+publishDate: "2026-06-21T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "medRxiv"
-publication_short: "medRxiv"
+publication: "Nature Communications"
+publication_short: "Nat Commun"
 
-abstract: Environmental exposure to _Burkholderia pseudomallei_, the causative agent of melioidosis, remains poorly characterised due to the limited sensitivity of conventional detection methods. This hinders accurate risk mapping and delays public health responses. Here, we developed CRISPR-BEEPs – a sensitive, equipment-light CRISPR-based assay – that demonstrated substantially improved sensitivity (93.5% vs 19.4%) and specificity (100% vs 98.0%) compared to conventional culture-based plate inspection techniques. We applied CRISPR-BEEPs to water samples collected from both natural and piped sources across 15,118 km<sup>2</sup> in northeast Thailand, including households of confirmed melioidosis patients and controls. _B. pseudomallei_ was detected in 73.3% of groundwater samples, 32.4% of surface water, and 28.3% of piped water, with peak detection during the flood season. Importantly, the assay's improved sensitivity enabled detection of a significant association between environmental _B. pseudomallei_ detection within a 10 km radius of participants' households and melioidosis risk (OR 2.74; 95% CI = 1.38–5.48) – an association undetectable by conventional methods. These findings highlight major gaps in water treatment and distribution infrastructure and demonstrate the value of high-resolution environmental diagnostics. Strengthening water sanitation and surveillance systems is essential for mitigating melioidosis transmission and addressing the broader burden of waterborne diseases in vulnerable settings.
+abstract: Environmental exposure to _Burkholderia pseudomallei_, the causative agent of melioidosis, remains poorly characterised due to the low sensitivity of conventional detection methods. Here, we develop CRISPR-BEEPs, a sensitive and resource-efficient CRISPR-based assay, and evaluate its performance against conventional culture-based plate inspection using double-qPCR as the reference standard. CRISPR-BEEPs demonstrated higher sensitivity (93.5% vs 19.4%) and high specificity (100% vs 98.0%). We apply the assay to water samples from natural and piped sources across 15,118 km<sup>2</sup> in northeast Thailand, collected from or near the households of 439 participants with melioidosis. We compared these with households of 190 participants with other bacterial infections and 506 healthy control participants living in the same endemic region who had never developed melioidosis. CRISPR-BEEPs detects _B. pseudomallei_ in 73.3% of groundwater, 32.9% of surface water, and 26.2% of piped water samples, with results comparable to double-qPCR. The improved sensitivity reveals a significant association between environmental detection within 10 km of households and melioidosis risk (OR 2.74; 95% CI:1.38-5.48), an association undetectable using conventional methods. These findings expose critical sanitation gaps and highlight the value of high-resolution environmental surveillance for disease prevention.
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -50,27 +52,11 @@ featured: false
 
 hugoblox:
   ids:
-    doi: 10.1101/2024.11.21.24317607
+    doi: 10.1038/s41467-026-73286-8
 
 links:
-- type: preprint
-  provider: medRxiv
-  url: https://www.medrxiv.org/content/10.1101/2024.11.21.24317607v2.full.pdf
-#- type: code
-#  url: https://github.com/arinwongprommoon/wongprommoonSinglecellMetabolicOscillations2024
-#- type: slides
-#  url: https://www.slideshare.net/
-#- type: dataset
-#  url: https://doi.org/10.7488/ds/7845
-#- type: poster
-#  url: "#"
-#- type: source
-#  url: "#"
-#- type: video
-#  url: https://youtube.com
-#- type: custom
-#  label: Custom Link
-#  url: http://example.org
+- type: pdf
+  url: https://www.nature.com/articles/s41467-026-73286-8_reference.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
